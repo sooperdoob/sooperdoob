@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**sooperdoob/sooperdoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm superd00b, a passionate developer who loves JavaScript, follows best practices, and enjoys coding in my free time. I'm also an ethical hacker and Capture The Flag (CTF) enthusiast. I believe in writing clean, efficient, and secure code, and I'm always looking for ways to innovate from scratch.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (Favorite)
+- TypeScript
+- Bash
+- Python
+- Perl
+- Java
+- Rust
+- C
+- C++
+- PHP (Least favorite)
+
+## Interests
+
+- Game Development
+- Ethical Hacking
+- CTF Challenges
+- Code Security
+- Innovation
+
+## Projects
+
+Here are some of the projects I'm proud of:
+
+- [MapartIndex](https://github.com/Stalpo/MapartIndex): A 2b2t map art hub with unique map info.
+
+Feel free to explore my repositories to see more of my work!
+
+## Let's Connect!
+
+- X: [superd00b](https://x.com/superd00b)
+
+Looking forward to connecting with fellow developers and enthusiasts!
