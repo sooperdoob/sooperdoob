@@ -28,8 +28,7 @@ I go by the handle superd00b, a zealous code crafter deeply entrenched in the re
 Peruse these chronicles that stand testament to my prowess:
 
 - [MapartIndex](https://github.com/Stalpo/MapartIndex): A bastion for 2b2t cartographic endeavors, adorned with esoteric cartographic wisdom.
-- [bcrypt-ctf](https://github.com/sooperdoob/bcrypt-ctf): A thrilling Capture The Flag (CTF) challenge crafted with JavaScript, HTML, and cryptographic prowess. Engage in the exhilarating pursuit of decrypting encrypted data using provided passwords.
-
+- [bcrypt-ctf](https://github.com/sooperdoob/bcrypt-ctf): A thrilling Capture The Flag (CTF) challenge crafted with JavaScript, HTML, and cryptographic finesse. Engage in the exhilarating pursuit of decrypting encrypted data using provided passwords.
 
 Venture forth into my repositories to unravel more tales of my digital odyssey!
 
