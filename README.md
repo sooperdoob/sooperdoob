@@ -29,7 +29,7 @@ Peruse these chronicles that stand testament to my prowess:
 
 - [MapartIndex](https://github.com/Stalpo/MapartIndex): A bastion for 2b2t cartographic endeavors, adorned with esoteric cartographic wisdom.
 - [bcrypt-ctf](https://github.com/sooperdoob/bcrypt-ctf): A thrilling Capture The Flag (CTF) challenge crafted with JavaScript, HTML, and cryptographic finesse. Engage in the exhilarating pursuit of decrypting encrypted data using provided passwords.
-- [Keyforge](https://github.com/sooperdoob/keyforge): Harnessing the power of Rust, **Keyforge** crafts Bitcoin addresses through meticulous control over private key generation.
+- [Keyforge](https://github.com/sooperdoob/keyforge): Harnessing the power of Rust, Keyforge crafts Bitcoin addresses through meticulous control over private key generation.
 
 Venture forth into my repositories to unravel more tales of my digital odyssey!
 
